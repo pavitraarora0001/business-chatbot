@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Business Chatbot",
+  "description": "A sophisticated chatbot powered by Gemini, designed to assist users by providing information about business services. It features multiple modes including standard chat, low-latency streaming, deep thinking for complex queries, and web-grounded search for up-to-date answers.",
+  "requestFramePermissions": []
+}
